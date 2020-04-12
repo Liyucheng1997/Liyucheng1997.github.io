@@ -410,6 +410,12 @@ ol.type li a:hover {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
+
+/* experience */
+#experience {
+	padding: 100px 0;
+	background: #f6ffff;
+}
 .timeline {
 	position: relative;
 	padding: 0;
